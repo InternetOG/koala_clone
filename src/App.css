@@ -1,0 +1,17 @@
+#root {
+  /* max-width: 1200px; */
+  margin: 0 auto;
+  padding: 1rem 1rem;
+  /* font-size: clamp(0.6rem, 0.1rem + 1.6vw, 1rem); */
+  font-size: clamp(0.7rem, 0.325rem + 1.2vw, 1rem);
+  /* font-size: clamp(0.8rem, 0.55rem + 0.8vw, 1rem); */
+  
+  background-color: #171826;
+  color: #ffffff;
+}
+
+/* @media (min-width: 400px) {
+  #root {
+    padding: 1rem 2rem;
+  }
+} */
