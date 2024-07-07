@@ -17,7 +17,7 @@ function ErrorBoundary() {
         <Header />
         <section className=" grid justify-center max-w-4xl my-10 mx-auto text-center">
             <div className="grid justify-center">
-                <img src="./src/assets/errorboundary/koala_error.svg" alt="" />
+                <img src="koala_clone/src/assets/errorboundary/koala_error.svg" alt="" />
             </div>
 
             <div>

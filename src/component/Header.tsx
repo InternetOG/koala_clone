@@ -14,8 +14,8 @@ function Header() {
         <div className="min800:flex min800:justify-between min800:max-w-4xl min800:my-0 min800:mx-auto">
             <div className=" flex justify-between items-center">
                 <div className="p-2 grid max800:grid-cols-1cxlmax min800:grid-cols-1cxlmin">
-                    <Link to="/">
-                        <img src="src/assets/homepage/koala_white_text.png" alt="Koala_logo" />
+                    <Link to="/koala_clone">
+                        <img src="./src/assets/homepage/koala_white_text.png" alt="Koala_logo" />
                     </Link>
                 </div>
                 <div className="p-2 min800:hidden" onClick={handleToggleClick}>

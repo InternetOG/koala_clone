@@ -13,7 +13,7 @@ import Download from './pages/Download'
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
-      <Route path='/' element={<RootLayout />} errorElement={<ErrorBoundary />}>
+      <Route path='/koala_clone' element={<RootLayout />} errorElement={<ErrorBoundary />}>
         <Route index element={<HomePage />} />
         <Route path='security' element={<Security />} errorElement={<ErrorBoundary />} />
         <Route path='news' element={<News />} />

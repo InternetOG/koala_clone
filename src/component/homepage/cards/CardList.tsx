@@ -8,7 +8,7 @@ function CardList() {
                     <div className="text-center">
                         <h2 className=" text-2xl font-bold">{card.heading}</h2>
                         <p className=" mt-3 font-medium">{card.paragraph}</p>
-                        <img className=" mt-3" src={`./src/assets/homepage/${card.img}`} alt={`${card.heading}`} />
+                        <img className=" mt-3" src={`koala_clone/src/assets/homepage/${card.img}`} alt={`${card.heading}`} />
                     </div>
                 </div>
             </div>

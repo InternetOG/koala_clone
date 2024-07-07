@@ -115,7 +115,7 @@ function SecurityCards() {
                         </div>
                     </div>
                     <div className="absolute w-48 right-0 bottom-0">
-                        <img  className="" src="./src/assets/security/bug-bounty1.svg" alt="" />
+                        <img className="" src="./src/assets/security/bug-bounty1.svg" alt="" />
                     </div>
                 </article>
                 

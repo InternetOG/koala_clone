@@ -18,7 +18,7 @@ function MainIntro() {
             <Platforms/>
         </div>
         <div className="max800:mt-8 flex max800:justify-center min800:justify-end">
-          <img className="w-4/6" src="./src/assets/homepage/phone-index.dac45385.png" alt="" />
+          <img className="w-4/6" src="koala_clone/src/assets/homepage/phone-index.dac45385.png" alt="" />
         </div>
       </section>
 
